@@ -1,0 +1,14 @@
+,coordinates_x1,coordinates_y1,coordinates_x2,coordinates_y2,current_frame,track_id,video_file,bird_distance,bird_Depth,coefs,ref_depth_values,ref_distance_values,ref_choosen_points,ref_circles,ignore
+0,1225.984619140625,1019.167236328125,1243.3963623046875,1038.609619140625,0.0,1.0,./DATASET/results_videos_artigo/14-10-2024/14-10-2024_09-41-26_track_11_cam_0_tracking_2_processado.avi,304.50174,1.0312186,"[array([274.37546], dtype=float32), np.float32(38.432617)]","[[3.6194425]
+ [2.9500487]
+ [1.9362981]
+ [1.4668112]
+ [0.9071175]
+ [1.0525348]
+ [1.2972728]
+ [1.7095429]
+ [2.4359057]
+ [3.2579672]
+ [4.775246 ]]","[ 97.03452097 132.67746731 182.81089    238.42127226 296.38054131
+ 325.82715964 267.20685889 210.19780552 156.71269605 112.05005222
+  90.47079257]",[],10-10-2024_09-02-35_track_275_cam_0.png,0
